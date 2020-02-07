@@ -1,0 +1,26 @@
+.nav1{
+  position: fixed;
+}
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nameWrapper{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width:25%;
+  margin: 1rem;
+}
+
+.btnWrapper{
+  width:70%;
+}
+
+.btn{
+  margin:0;
+  padding:0;
+  background: none;
+  border:none
+}

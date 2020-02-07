@@ -1,0 +1,54 @@
+{
+  "title": "Hello I'm Ahmad !",
+  "subtitle": "FronEndDeveloper | JavaScript Enthusiast",
+  "links": {
+    "github": "https://github.com/",
+    "stackoverflow": "https://stackoverflow.com/",
+    "linkdin": "https://www.linkedin.com/",
+    "instagram": "https://www.instagram.com/"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I’m a Junior Front End Developer interested in JavaScript and Framework like React-Native and React. I’m a hard-worker , committed , self-taught and enjoy working in a team."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "title": "React",
+            "icon": "FaReact"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "JavaScript",
+            "icon": "DiJavascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "HTML",
+            "icon": "FaHtml5"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "CSS3",
+            "icon": "FaCss3Alt"
+          }
+        }
+      ]
+    }
+  ]
+}
